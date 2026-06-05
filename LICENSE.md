@@ -1,18 +1,29 @@
-# PROPRIETARY SOFTWARE LICENSE
-**Copyright © 2026 Mummullage Binuri Umanda Thathsarani. All Rights Reserved.**
+# END-USER AND PROPRIETARY ACADEMIC LICENSE
+**Effective Date:** 2026  
+**Licensor:** Mummullage Binuri Umanda Thathsarani  
 
-### 1. OWNERSHIP
-This software, including the web application interface, pre-trained machine learning models, source code, and all accompanying digital assets (collectively, the "Software"), is the exclusive, proprietary property of Mummullage Binuri Umanda Thathsarani. 
+This repository, including all source code, machine learning models, datasets, and front-end interfaces (collectively referred to as the "Software"), is the exclusive intellectual property of the Licensor. 
 
-### 2. RESTRICTIONS ON USE
-This repository and the accompanying deployed web application are published strictly for personal portfolio viewing and academic demonstration within the context of the BSc (Hons) in Information Technology Specializing in Artificial Intelligence program. By accessing this repository or the live application, you agree to the following absolute restrictions:
-* **No Copying:** You may not duplicate, copy, clone, or reproduce any portion of this Software.
-* **No Modification:** You may not alter, translate, or create derivative works based on this Software.
-* **No Distribution:** You may not distribute, sub-license, transmit, or sell this Software to any third party.
-* **No Commercial Use:** You may not use this Software for any commercial, business, or organizational purposes.
+By accessing, viewing, or interacting with this repository, you agree to be bound by the terms of this License.
 
-### 3. LIMITATION OF LIABILITY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+### ARTICLE 1: GRANT OF LICENSE
+This Software is made publicly visible strictly for the purposes of:
+1. Academic evaluation within the BSc (Hons) Information Technology (Artificial Intelligence) program at SLIIT.
+2. Professional portfolio demonstration and peer review.
+No other rights are granted.
 
-### 4. ENFORCEMENT
-Any unauthorized use, reproduction, scraping, or distribution of this Software will constitute a direct infringement of intellectual property rights and will be subject to legal action.
+### ARTICLE 2: RESTRICTIONS ON USE
+You are explicitly prohibited from engaging in any of the following activities:
+* **Reproduction:** You may not copy, clone, or duplicate the Software.
+* **Modification:** You may not alter, optimize, or create derivative works from the Software.
+* **Distribution:** You may not host, share, or distribute the Software to third parties.
+* **Commercialization:** You may not use the Software, or any portion of its underlying code, for commercial, enterprise, or profit-generating purposes.
+
+### ARTICLE 3: INTELLECTUAL PROPERTY RIGHTS
+All title, ownership rights, and intellectual property rights in and to the Software shall remain the sole and exclusive property of the Licensor. 
+
+### ARTICLE 4: DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED TO YOU "AS IS" AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, THE LICENSOR EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+### ARTICLE 5: LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
