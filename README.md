@@ -1,4 +1,4 @@
-# 🛡️ NLP MailGuard: Spam Classification Engine
+# 📩 Spam Email Classifier - Web Application
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.58.0-FF4B4B.svg?logo=streamlit&logoColor=white)
@@ -8,7 +8,7 @@
 
 An end-to-end Machine Learning web application engineered to autonomously detect and filter spam in text messages and emails using Natural Language Processing (NLP).
 
-🌍 **Live Application:** [MailGuard Web Interface](https://spam-classifier-web-app-umanda-binuri.streamlit.app)
+🌍 **Live Application:** [Spam Email Classifier App](https://spam-classifier-web-app-umanda-binuri.streamlit.app)
 
 **Engineered by:** Mummullage Binuri Umanda Thathsarani  
 **Academic Context:** BSc (Hons) Information Technology Specializing in Artificial Intelligence, SLIIT
